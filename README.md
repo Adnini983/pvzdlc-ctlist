@@ -4,3 +4,5 @@
 此项目基于MIT协议授权
 
 游戏下载：https://gamejolt.com/games/pvzcommunitydlc/881191
+
+QQ群：709951181
